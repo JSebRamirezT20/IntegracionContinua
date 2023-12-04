@@ -64,7 +64,7 @@ const initialProductList = [
   },
   {
     id: "008",
-    name: "Topdog Adulto",
+    name: "Cambio Prueba",
     price: "47.000",
     inventory: 30,
     discount: "10%",
